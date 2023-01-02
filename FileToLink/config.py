@@ -18,7 +18,7 @@ class Config:
     elif Bot_Channel == "":
         Bot_Channel = None
 
-    Link_Root = f"https://{App_Name}.herokuapp.com/"
+    Link_Root = f"https://{App_Name}.prod-ngrockers-xxkg6y.mo1.mogenius.io/"
     Download_Folder = "Files"
     Dev_Channel = "MALLUROCKERS CLUB"
     Bot_UserName = None  # The bot will set it after starting
